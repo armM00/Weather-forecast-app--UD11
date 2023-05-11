@@ -2,6 +2,9 @@ import streamlit as st
 from plotly import express as px
 from backend import get_data
 
+st.set_page_config(page_title="Weather-forecast App",
+                   page_icon="☀️")
+
 st.title('Weather forecast for the Next days')
 
 place = st.text_input(label="Place", key='user_input').title()
