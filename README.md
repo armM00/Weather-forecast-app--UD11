@@ -1,5 +1,5 @@
 # Weather Forecast Web App
-[![Project Header](https://i.ibb.co/N9fT7BN/cover.jpg)](#)
+[![Project Header](https://i.ibb.co/YW48pK6/cover.jpg)](#)
 
 This is a web application built with Streamlit that provides weather forecasts for the next few days. It utilizes the OpenWeatherMap API to retrieve weather data and displays it in a user-friendly interface.
 
