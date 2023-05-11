@@ -3,10 +3,7 @@
 import requests
 import json
 
-with open('api.json') as file:
-    key = json.load(file)
-
-API_KEY = key["openweathermap"]
+API_KEY = "YOUR_API_KEY"
 
 
 def get_data(place, forecast_days):
